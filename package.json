@@ -1,0 +1,27 @@
+{
+  "name": "hello-microverse-repo",
+  "version": "1.0.0",
+  "description": "My first repository at microverse",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/Bestbynature/Hello-Microverse-Repo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bestbynature/Hello-Microverse-Repo/issues"
+  },
+  "homepage": "https://github.com/Bestbynature/Hello-Microverse-Repo#readme",
+  "devDependencies": {
+    "hint": "^7.1.3",
+    "stylelint": "^13.13.1",
+    "stylelint-config-standard": "^21.0.0",
+    "stylelint-csstree-validator": "^1.9.0",
+    "stylelint-scss": "^3.21.0"
+  }
+}
